@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "339962089936",
+    "firebase_url": "https://vuon-thong-minh-6868-default-rtdb.firebaseio.com",
+    "project_id": "vuon-thong-minh-6868",
+    "storage_bucket": "vuon-thong-minh-6868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339962089936:android:43487d48c05637b5e329d5",
+        "android_client_info": {
+          "package_name": "com.example.aaaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339962089936-m72pi188vsi4egi2r2kq924skjuc3vra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNb-NNSaBmzBMt3Vf62zxP3-X6Ijpcfjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339962089936-m72pi188vsi4egi2r2kq924skjuc3vra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339962089936-qd0s0l9n6e3v1ps1ooknje45bod27sm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dtrognn.SmartGarden"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339962089936:android:2f0ec3b2ff436f55e329d5",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339962089936-m72pi188vsi4egi2r2kq924skjuc3vra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNb-NNSaBmzBMt3Vf62zxP3-X6Ijpcfjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339962089936-m72pi188vsi4egi2r2kq924skjuc3vra.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "339962089936-qd0s0l9n6e3v1ps1ooknje45bod27sm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dtrognn.SmartGarden"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
